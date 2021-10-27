@@ -20,6 +20,8 @@ html {
 
 .navbar__logo img {
   width: 7.3rem;
+  margin-left: 1rem;
+  margin-top: 1rem;
 }
 
 .navbar__lists {
@@ -29,6 +31,7 @@ html {
 .navbar__bar {
   font-size: 2.2rem;
   margin-right: 1rem;
+  margin-top: 1rem;
   cursor: pointer;
 }
 
@@ -216,7 +219,7 @@ html {
   margin-top: 3rem;
 }
 .story__img img {
-  width: 35rem;
+  width: 30rem;
   border-radius: 20px;
   border: 3px solid #fff;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
@@ -229,14 +232,14 @@ html {
   margin-top: 2rem;
 }
 .title1 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 500;
   border-radius: 10px;
   padding: 1rem;
 }
 .btn1 {
-  font-size: 1.8rem;
-  width: 45rem;
+  font-size: 1.6rem;
+  width: 32rem;
   border-radius: 10px;
   padding: 1rem;
   background-color: #da5c45;
@@ -250,14 +253,14 @@ html {
   margin-top: 1rem;
 }
 .title2 {
-  font-size: 3rem;
+  font-size: 2.5rem;
   font-weight: 500;
   border-radius: 10px;
   padding: 1rem;
 }
 .btn2 {
-  font-size: 1.8rem;
-  width: 45rem;
+  font-size: 1.6rem;
+  width: 32rem;
   margin-bottom: 3rem;
   border-radius: 10px;
   padding: 1rem;
